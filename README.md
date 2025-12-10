@@ -17,7 +17,7 @@
 ## 🛠️ Installation
 
 1.  Assurez-vous d'avoir **Kino** installé.
-2.  Téléchargez `TexDumper.dll` depuis l'onglet [Releases].
+2.  Téléchargez `TexDumper.dll` depuis l'onglet [Releases](https://github.com/Silv3r25/TexDumper-CXFR/releases/tag/v1.0.0).
 3.  Placez le fichier dans votre dossier `kino/mods/`.
 4.  Lancez le jeu !
 
