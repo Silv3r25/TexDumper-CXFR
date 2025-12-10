@@ -2,7 +2,7 @@
 
 **TexDumper CXFR** est un outil utilitaire pour *CarX Drift Racing Online* conçu pour extraire les textures de n'importe quelle map (Standard ou Workshop). C'est le compagnon idéal pour les moddeurs utilisant **TexLoader CXFR** afin de créer des packs de textures personnalisés.
 
-<img width="295" height="396" alt="Capture d’écran 2025-12-10 125241" src="https://github.com/user-attachments/assets/54432014-c922-4170-a189-3705e4383c41" />
+<img width="1549" height="912" alt="Capture d’écran 2025-12-08 202450" src="https://github.com/user-attachments/assets/9a59c3c2-e588-437c-b5f1-2b83b4f8f5b2" />
 
 ## 🚀 Fonctionnalités Clés
 
